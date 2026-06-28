@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "url_mac": "https://kenso.shop/KENSO.dmg",
-  "url_win": "https://kenso.shop/KENSO-Setup.zip",
+  "url_mac": "https://github.com/sebastianwangler/kenso-website/releases/latest/download/KENSO.dmg",
+  "url_win": "https://github.com/sebastianwangler/kenso-website/releases/latest/download/KENSO-Setup.zip",
   "notes": ""
 }
